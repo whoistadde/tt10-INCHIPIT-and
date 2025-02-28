@@ -1,5 +1,5 @@
 //  Module: and_module
-//
+// 
 
 module and_module
     (
@@ -8,5 +8,5 @@ module and_module
         output logic y
     );
 
-    assign y = a & b;
+    assign y = a + b;
 endmodule: and_module
